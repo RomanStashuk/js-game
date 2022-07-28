@@ -1,0 +1,22 @@
+// Media queries
+
+@mixin for-phone-only {
+  @media (max-width: $phone-width-only) { @content; }
+}
+
+@mixin for-tablet {
+  @media (min-width: $tablet-width) { @content; }
+}
+
+@mixin for-desktop-up {
+  @media (min-width: $desktop-width) { @content; }
+}
+
+// Retina displays
+
+@mixin retina($density: 2) {
+  @media only screen and (min-resolution: 192dpi),
+    only screen and (min-resolution: ($density + dppx)) {
+    @content;
+  }
+}
