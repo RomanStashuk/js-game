@@ -1,0 +1,9 @@
+.page-body {
+  min-width: 320px;
+  max-width: $desktop-width;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  overflow: hidden;
+  background: url('../img/bg-wood.jpg') top center / cover no-repeat #654733;
+}
