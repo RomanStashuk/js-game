@@ -1,5 +1,5 @@
 {
-  "name": "start-template-gulp",
+  "name": "JS-game",
   "version": "1.0.0",
   "description": "Проста гра на JavaScript",
   "main": "gulpfile.babel.js",
