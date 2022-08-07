@@ -2,17 +2,17 @@
   "name": "JS-game",
   "version": "1.0.0",
   "description": "Проста гра на JavaScript",
-  "main": "gulpfile.babel.js",
-  "author": "RomanStashuk",
+  "main": "js/main.js",
+  "author": "RomanStashuk <romanstashuk1@gmail.com> (https://github.com/RomanStashuk)",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RomanStashuk/start-template-gulp.git"
+    "url": "git+https://github.com/RomanStashuk/js-game.git"
   },
   "bugs": {
-    "url": "https://github.com/RomanStashuk/start-template-gulp/issues"
+    "url": "https://github.com/RomanStashuk/js-game/issues"
   },
-  "homepage": "https://github.com/RomanStashuk/start-template-gulp#readme",
+  "homepage": "https://github.com/RomanStashuk/js-game#readme",
   "scripts": {
     "start": "gulp",
     "build": "gulp --production",
