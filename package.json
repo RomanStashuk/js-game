@@ -1,7 +1,7 @@
 {
   "name": "JS-game",
   "version": "1.0.0",
-  "description": "Проста гра на JavaScript",
+  "description": "JS гра на швидкість реакції",
   "main": "js/main.js",
   "author": "RomanStashuk <romanstashuk1@gmail.com> (https://github.com/RomanStashuk)",
   "license": "ISC",
