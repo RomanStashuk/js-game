@@ -7,12 +7,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RomanStashuk/js-game.git"
+    "url": "git+https://github.com/RomanStashuk/reaction-time-game.git"
   },
   "bugs": {
-    "url": "https://github.com/RomanStashuk/js-game/issues"
+    "url": "https://github.com/RomanStashuk/reaction-time-game/issues"
   },
-  "homepage": "https://github.com/RomanStashuk/js-game#readme",
+  "homepage": "https://github.com/RomanStashuk/reaction-time-game#readme",
   "scripts": {
     "start": "gulp",
     "build": "gulp --production",
