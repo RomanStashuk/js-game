@@ -14,7 +14,8 @@
     "indent": [
       "error",
       2,
-      {"SwitchCase": 1
+      {
+        "SwitchCase": 1
       }
     ],
     "linebreak-style": [
@@ -31,7 +32,12 @@
     ],
     "space-before-function-paren": [
       "error",
-      "never"
-    ]
+      {
+        "anonymous": "always",
+        "named": "newer",
+        "asyncArrow": "always"
+      }
+    ],
+    "no-unused-vars": "warn"
   }
 }
